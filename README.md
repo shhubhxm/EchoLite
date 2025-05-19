@@ -33,7 +33,7 @@ graph TD
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language & Frameworks**: Python, FastAPI, PyTorch, Transformers
 * **Inference Orchestration**: Ray Serve
@@ -47,7 +47,7 @@ graph TD
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/echolite.git && cd echolite
+git clone https://github.com/shhubhxm/EchoLite && cd echolite
 
 # Create virtual env
 python -m venv venv && source venv/bin/activate
