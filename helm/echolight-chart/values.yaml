@@ -1,0 +1,9 @@
+replicaCount: 1
+image:
+  repository: gcr.io/your-project-id/echolite
+  tag: latest
+  pullPolicy: Always
+
+service:
+  type: LoadBalancer
+  port: 80
