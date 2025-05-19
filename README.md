@@ -1,6 +1,6 @@
 # EchoLite — Scalable Real-Time Model Inference System
 
-EchoLite is a personal project that simulates a production-grade ML inference platform using **Ray Serve**, **PyTorch**, and **Kubernetes on GCP**. It provides fast, reliable, and scalable model serving for language and speech models (e.g., DistilBERT, Whisper).
+EchoLite is an open-source ML inference platform developed as part of a volunteer initiative at the **Frugal Innovation Hub**, aimed at supporting low-resource and humanitarian technology solutions. Built with **Ray Serve**, **PyTorch**, and **Kubernetes on GCP**, EchoLite delivers fast, reliable, and scalable model serving for speech and language understanding models (e.g., DistilBERT, Whisper), tailored for deployment in bandwidth-constrained or mission-critical environments.
 
 ---
 
